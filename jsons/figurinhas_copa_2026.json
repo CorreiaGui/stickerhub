@@ -1,0 +1,9942 @@
+[
+  {
+    "codigo": "MEX_1",
+    "numero": 1,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_2",
+    "numero": 2,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_3",
+    "numero": 3,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_4",
+    "numero": 4,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_5",
+    "numero": 5,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_6",
+    "numero": 6,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_7",
+    "numero": 7,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_8",
+    "numero": 8,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_9",
+    "numero": 9,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_10",
+    "numero": 10,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_11",
+    "numero": 11,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_12",
+    "numero": 12,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_13",
+    "numero": 13,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_14",
+    "numero": 14,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_15",
+    "numero": 15,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_16",
+    "numero": 16,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_17",
+    "numero": 17,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_18",
+    "numero": 18,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_19",
+    "numero": 19,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MEX_20",
+    "numero": 20,
+    "pais": "México",
+    "sigla": "MEX",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_1",
+    "numero": 1,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_2",
+    "numero": 2,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_3",
+    "numero": 3,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_4",
+    "numero": 4,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_5",
+    "numero": 5,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_6",
+    "numero": 6,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_7",
+    "numero": 7,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_8",
+    "numero": 8,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_9",
+    "numero": 9,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_10",
+    "numero": 10,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_11",
+    "numero": 11,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_12",
+    "numero": 12,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_13",
+    "numero": 13,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_14",
+    "numero": 14,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_15",
+    "numero": 15,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_16",
+    "numero": 16,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_17",
+    "numero": 17,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_18",
+    "numero": 18,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_19",
+    "numero": 19,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "RSA_20",
+    "numero": 20,
+    "pais": "África do Sul",
+    "sigla": "RSA",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_1",
+    "numero": 1,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_2",
+    "numero": 2,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_3",
+    "numero": 3,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_4",
+    "numero": 4,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_5",
+    "numero": 5,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_6",
+    "numero": 6,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_7",
+    "numero": 7,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_8",
+    "numero": 8,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_9",
+    "numero": 9,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_10",
+    "numero": 10,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_11",
+    "numero": 11,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_12",
+    "numero": 12,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_13",
+    "numero": 13,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_14",
+    "numero": 14,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_15",
+    "numero": 15,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_16",
+    "numero": 16,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_17",
+    "numero": 17,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_18",
+    "numero": 18,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_19",
+    "numero": 19,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KOR_20",
+    "numero": 20,
+    "pais": "Coreia do Sul",
+    "sigla": "KOR",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_1",
+    "numero": 1,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_2",
+    "numero": 2,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_3",
+    "numero": 3,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_4",
+    "numero": 4,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_5",
+    "numero": 5,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_6",
+    "numero": 6,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_7",
+    "numero": 7,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_8",
+    "numero": 8,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_9",
+    "numero": 9,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_10",
+    "numero": 10,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_11",
+    "numero": 11,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_12",
+    "numero": 12,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_13",
+    "numero": 13,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_14",
+    "numero": 14,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_15",
+    "numero": 15,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_16",
+    "numero": 16,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_17",
+    "numero": 17,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_18",
+    "numero": 18,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_19",
+    "numero": 19,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CZE_20",
+    "numero": 20,
+    "pais": "República Tcheca",
+    "sigla": "CZE",
+    "grupo": "A",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_1",
+    "numero": 1,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_2",
+    "numero": 2,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_3",
+    "numero": 3,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_4",
+    "numero": 4,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_5",
+    "numero": 5,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_6",
+    "numero": 6,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_7",
+    "numero": 7,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_8",
+    "numero": 8,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_9",
+    "numero": 9,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_10",
+    "numero": 10,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_11",
+    "numero": 11,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_12",
+    "numero": 12,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_13",
+    "numero": 13,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_14",
+    "numero": 14,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_15",
+    "numero": 15,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_16",
+    "numero": 16,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_17",
+    "numero": 17,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_18",
+    "numero": 18,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_19",
+    "numero": 19,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CAN_20",
+    "numero": 20,
+    "pais": "Canadá",
+    "sigla": "CAN",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_1",
+    "numero": 1,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_2",
+    "numero": 2,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_3",
+    "numero": 3,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_4",
+    "numero": 4,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_5",
+    "numero": 5,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_6",
+    "numero": 6,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_7",
+    "numero": 7,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_8",
+    "numero": 8,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_9",
+    "numero": 9,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_10",
+    "numero": 10,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_11",
+    "numero": 11,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_12",
+    "numero": 12,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_13",
+    "numero": 13,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_14",
+    "numero": 14,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_15",
+    "numero": 15,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_16",
+    "numero": 16,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_17",
+    "numero": 17,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_18",
+    "numero": 18,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_19",
+    "numero": 19,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BIH_20",
+    "numero": 20,
+    "pais": "Bósnia",
+    "sigla": "BIH",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_1",
+    "numero": 1,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_2",
+    "numero": 2,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_3",
+    "numero": 3,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_4",
+    "numero": 4,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_5",
+    "numero": 5,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_6",
+    "numero": 6,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_7",
+    "numero": 7,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_8",
+    "numero": 8,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_9",
+    "numero": 9,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_10",
+    "numero": 10,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_11",
+    "numero": 11,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_12",
+    "numero": 12,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_13",
+    "numero": 13,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_14",
+    "numero": 14,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_15",
+    "numero": 15,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_16",
+    "numero": 16,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_17",
+    "numero": 17,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_18",
+    "numero": 18,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_19",
+    "numero": 19,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "QAT_20",
+    "numero": 20,
+    "pais": "Catar",
+    "sigla": "QAT",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_1",
+    "numero": 1,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_2",
+    "numero": 2,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_3",
+    "numero": 3,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_4",
+    "numero": 4,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_5",
+    "numero": 5,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_6",
+    "numero": 6,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_7",
+    "numero": 7,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_8",
+    "numero": 8,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_9",
+    "numero": 9,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_10",
+    "numero": 10,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_11",
+    "numero": 11,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_12",
+    "numero": 12,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_13",
+    "numero": 13,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_14",
+    "numero": 14,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_15",
+    "numero": 15,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_16",
+    "numero": 16,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_17",
+    "numero": 17,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_18",
+    "numero": 18,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_19",
+    "numero": 19,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SUI_20",
+    "numero": 20,
+    "pais": "Suíça",
+    "sigla": "SUI",
+    "grupo": "B",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_1",
+    "numero": 1,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_2",
+    "numero": 2,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_3",
+    "numero": 3,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_4",
+    "numero": 4,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_5",
+    "numero": 5,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_6",
+    "numero": 6,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_7",
+    "numero": 7,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_8",
+    "numero": 8,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_9",
+    "numero": 9,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_10",
+    "numero": 10,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_11",
+    "numero": 11,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_12",
+    "numero": 12,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_13",
+    "numero": 13,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_14",
+    "numero": 14,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_15",
+    "numero": 15,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_16",
+    "numero": 16,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_17",
+    "numero": 17,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_18",
+    "numero": 18,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_19",
+    "numero": 19,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BRA_20",
+    "numero": 20,
+    "pais": "Brasil",
+    "sigla": "BRA",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_1",
+    "numero": 1,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_2",
+    "numero": 2,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_3",
+    "numero": 3,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_4",
+    "numero": 4,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_5",
+    "numero": 5,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_6",
+    "numero": 6,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_7",
+    "numero": 7,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_8",
+    "numero": 8,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_9",
+    "numero": 9,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_10",
+    "numero": 10,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_11",
+    "numero": 11,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_12",
+    "numero": 12,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_13",
+    "numero": 13,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_14",
+    "numero": 14,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_15",
+    "numero": 15,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_16",
+    "numero": 16,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_17",
+    "numero": 17,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_18",
+    "numero": 18,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_19",
+    "numero": 19,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "MAR_20",
+    "numero": 20,
+    "pais": "Marrocos",
+    "sigla": "MAR",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_1",
+    "numero": 1,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_2",
+    "numero": 2,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_3",
+    "numero": 3,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_4",
+    "numero": 4,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_5",
+    "numero": 5,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_6",
+    "numero": 6,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_7",
+    "numero": 7,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_8",
+    "numero": 8,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_9",
+    "numero": 9,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_10",
+    "numero": 10,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_11",
+    "numero": 11,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_12",
+    "numero": 12,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_13",
+    "numero": 13,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_14",
+    "numero": 14,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_15",
+    "numero": 15,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_16",
+    "numero": 16,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_17",
+    "numero": 17,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_18",
+    "numero": 18,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_19",
+    "numero": 19,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "HAI_20",
+    "numero": 20,
+    "pais": "Haiti",
+    "sigla": "HAI",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_1",
+    "numero": 1,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_2",
+    "numero": 2,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_3",
+    "numero": 3,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_4",
+    "numero": 4,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_5",
+    "numero": 5,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_6",
+    "numero": 6,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_7",
+    "numero": 7,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_8",
+    "numero": 8,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_9",
+    "numero": 9,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_10",
+    "numero": 10,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_11",
+    "numero": 11,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_12",
+    "numero": 12,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_13",
+    "numero": 13,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_14",
+    "numero": 14,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_15",
+    "numero": 15,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_16",
+    "numero": 16,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_17",
+    "numero": 17,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_18",
+    "numero": 18,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_19",
+    "numero": 19,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SCO_20",
+    "numero": 20,
+    "pais": "Escócia",
+    "sigla": "SCO",
+    "grupo": "C",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_1",
+    "numero": 1,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_2",
+    "numero": 2,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_3",
+    "numero": 3,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_4",
+    "numero": 4,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_5",
+    "numero": 5,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_6",
+    "numero": 6,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_7",
+    "numero": 7,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_8",
+    "numero": 8,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_9",
+    "numero": 9,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_10",
+    "numero": 10,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_11",
+    "numero": 11,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_12",
+    "numero": 12,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_13",
+    "numero": 13,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_14",
+    "numero": 14,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_15",
+    "numero": 15,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_16",
+    "numero": 16,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_17",
+    "numero": 17,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_18",
+    "numero": 18,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_19",
+    "numero": 19,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "USA_20",
+    "numero": 20,
+    "pais": "Estados Unidos",
+    "sigla": "USA",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_1",
+    "numero": 1,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_2",
+    "numero": 2,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_3",
+    "numero": 3,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_4",
+    "numero": 4,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_5",
+    "numero": 5,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_6",
+    "numero": 6,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_7",
+    "numero": 7,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_8",
+    "numero": 8,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_9",
+    "numero": 9,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_10",
+    "numero": 10,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_11",
+    "numero": 11,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_12",
+    "numero": 12,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_13",
+    "numero": 13,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_14",
+    "numero": 14,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_15",
+    "numero": 15,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_16",
+    "numero": 16,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_17",
+    "numero": 17,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_18",
+    "numero": 18,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_19",
+    "numero": 19,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAR_20",
+    "numero": 20,
+    "pais": "Paraguai",
+    "sigla": "PAR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_1",
+    "numero": 1,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_2",
+    "numero": 2,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_3",
+    "numero": 3,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_4",
+    "numero": 4,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_5",
+    "numero": 5,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_6",
+    "numero": 6,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_7",
+    "numero": 7,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_8",
+    "numero": 8,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_9",
+    "numero": 9,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_10",
+    "numero": 10,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_11",
+    "numero": 11,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_12",
+    "numero": 12,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_13",
+    "numero": 13,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_14",
+    "numero": 14,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_15",
+    "numero": 15,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_16",
+    "numero": 16,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_17",
+    "numero": 17,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_18",
+    "numero": 18,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_19",
+    "numero": 19,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUS_20",
+    "numero": 20,
+    "pais": "Austrália",
+    "sigla": "AUS",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_1",
+    "numero": 1,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_2",
+    "numero": 2,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_3",
+    "numero": 3,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_4",
+    "numero": 4,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_5",
+    "numero": 5,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_6",
+    "numero": 6,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_7",
+    "numero": 7,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_8",
+    "numero": 8,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_9",
+    "numero": 9,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_10",
+    "numero": 10,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_11",
+    "numero": 11,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_12",
+    "numero": 12,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_13",
+    "numero": 13,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_14",
+    "numero": 14,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_15",
+    "numero": 15,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_16",
+    "numero": 16,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_17",
+    "numero": 17,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_18",
+    "numero": 18,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_19",
+    "numero": 19,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUR_20",
+    "numero": 20,
+    "pais": "Turquia",
+    "sigla": "TUR",
+    "grupo": "D",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_1",
+    "numero": 1,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_2",
+    "numero": 2,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_3",
+    "numero": 3,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_4",
+    "numero": 4,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_5",
+    "numero": 5,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_6",
+    "numero": 6,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_7",
+    "numero": 7,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_8",
+    "numero": 8,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_9",
+    "numero": 9,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_10",
+    "numero": 10,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_11",
+    "numero": 11,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_12",
+    "numero": 12,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_13",
+    "numero": 13,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_14",
+    "numero": 14,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_15",
+    "numero": 15,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_16",
+    "numero": 16,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_17",
+    "numero": 17,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_18",
+    "numero": 18,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_19",
+    "numero": 19,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GER_20",
+    "numero": 20,
+    "pais": "Alemanha",
+    "sigla": "GER",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_1",
+    "numero": 1,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_2",
+    "numero": 2,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_3",
+    "numero": 3,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_4",
+    "numero": 4,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_5",
+    "numero": 5,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_6",
+    "numero": 6,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_7",
+    "numero": 7,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_8",
+    "numero": 8,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_9",
+    "numero": 9,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_10",
+    "numero": 10,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_11",
+    "numero": 11,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_12",
+    "numero": 12,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_13",
+    "numero": 13,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_14",
+    "numero": 14,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_15",
+    "numero": 15,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_16",
+    "numero": 16,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_17",
+    "numero": 17,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_18",
+    "numero": 18,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_19",
+    "numero": 19,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CUW_20",
+    "numero": 20,
+    "pais": "Curaçao",
+    "sigla": "CUW",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_1",
+    "numero": 1,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_2",
+    "numero": 2,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_3",
+    "numero": 3,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_4",
+    "numero": 4,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_5",
+    "numero": 5,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_6",
+    "numero": 6,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_7",
+    "numero": 7,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_8",
+    "numero": 8,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_9",
+    "numero": 9,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_10",
+    "numero": 10,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_11",
+    "numero": 11,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_12",
+    "numero": 12,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_13",
+    "numero": 13,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_14",
+    "numero": 14,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_15",
+    "numero": 15,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_16",
+    "numero": 16,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_17",
+    "numero": 17,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_18",
+    "numero": 18,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_19",
+    "numero": 19,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CIV_20",
+    "numero": 20,
+    "pais": "Costa do Marfim",
+    "sigla": "CIV",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_1",
+    "numero": 1,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_2",
+    "numero": 2,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_3",
+    "numero": 3,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_4",
+    "numero": 4,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_5",
+    "numero": 5,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_6",
+    "numero": 6,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_7",
+    "numero": 7,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_8",
+    "numero": 8,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_9",
+    "numero": 9,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_10",
+    "numero": 10,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_11",
+    "numero": 11,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_12",
+    "numero": 12,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_13",
+    "numero": 13,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_14",
+    "numero": 14,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_15",
+    "numero": 15,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_16",
+    "numero": 16,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_17",
+    "numero": 17,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_18",
+    "numero": 18,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_19",
+    "numero": 19,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ECU_20",
+    "numero": 20,
+    "pais": "Equador",
+    "sigla": "ECU",
+    "grupo": "E",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_1",
+    "numero": 1,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_2",
+    "numero": 2,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_3",
+    "numero": 3,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_4",
+    "numero": 4,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_5",
+    "numero": 5,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_6",
+    "numero": 6,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_7",
+    "numero": 7,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_8",
+    "numero": 8,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_9",
+    "numero": 9,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_10",
+    "numero": 10,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_11",
+    "numero": 11,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_12",
+    "numero": 12,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_13",
+    "numero": 13,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_14",
+    "numero": 14,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_15",
+    "numero": 15,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_16",
+    "numero": 16,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_17",
+    "numero": 17,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_18",
+    "numero": 18,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_19",
+    "numero": 19,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NED_20",
+    "numero": 20,
+    "pais": "Holanda",
+    "sigla": "NED",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_1",
+    "numero": 1,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_2",
+    "numero": 2,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_3",
+    "numero": 3,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_4",
+    "numero": 4,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_5",
+    "numero": 5,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_6",
+    "numero": 6,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_7",
+    "numero": 7,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_8",
+    "numero": 8,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_9",
+    "numero": 9,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_10",
+    "numero": 10,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_11",
+    "numero": 11,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_12",
+    "numero": 12,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_13",
+    "numero": 13,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_14",
+    "numero": 14,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_15",
+    "numero": 15,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_16",
+    "numero": 16,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_17",
+    "numero": 17,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_18",
+    "numero": 18,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_19",
+    "numero": 19,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JPN_20",
+    "numero": 20,
+    "pais": "Japão",
+    "sigla": "JPN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_1",
+    "numero": 1,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_2",
+    "numero": 2,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_3",
+    "numero": 3,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_4",
+    "numero": 4,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_5",
+    "numero": 5,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_6",
+    "numero": 6,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_7",
+    "numero": 7,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_8",
+    "numero": 8,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_9",
+    "numero": 9,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_10",
+    "numero": 10,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_11",
+    "numero": 11,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_12",
+    "numero": 12,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_13",
+    "numero": 13,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_14",
+    "numero": 14,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_15",
+    "numero": 15,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_16",
+    "numero": 16,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_17",
+    "numero": 17,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_18",
+    "numero": 18,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_19",
+    "numero": 19,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SWE_20",
+    "numero": 20,
+    "pais": "Suécia",
+    "sigla": "SWE",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_1",
+    "numero": 1,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_2",
+    "numero": 2,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_3",
+    "numero": 3,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_4",
+    "numero": 4,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_5",
+    "numero": 5,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_6",
+    "numero": 6,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_7",
+    "numero": 7,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_8",
+    "numero": 8,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_9",
+    "numero": 9,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_10",
+    "numero": 10,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_11",
+    "numero": 11,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_12",
+    "numero": 12,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_13",
+    "numero": 13,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_14",
+    "numero": 14,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_15",
+    "numero": 15,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_16",
+    "numero": 16,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_17",
+    "numero": 17,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_18",
+    "numero": 18,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_19",
+    "numero": 19,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "TUN_20",
+    "numero": 20,
+    "pais": "Tunísia",
+    "sigla": "TUN",
+    "grupo": "F",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_1",
+    "numero": 1,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_2",
+    "numero": 2,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_3",
+    "numero": 3,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_4",
+    "numero": 4,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_5",
+    "numero": 5,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_6",
+    "numero": 6,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_7",
+    "numero": 7,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_8",
+    "numero": 8,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_9",
+    "numero": 9,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_10",
+    "numero": 10,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_11",
+    "numero": 11,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_12",
+    "numero": 12,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_13",
+    "numero": 13,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_14",
+    "numero": 14,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_15",
+    "numero": 15,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_16",
+    "numero": 16,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_17",
+    "numero": 17,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_18",
+    "numero": 18,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_19",
+    "numero": 19,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "BEL_20",
+    "numero": 20,
+    "pais": "Bélgica",
+    "sigla": "BEL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_1",
+    "numero": 1,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_2",
+    "numero": 2,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_3",
+    "numero": 3,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_4",
+    "numero": 4,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_5",
+    "numero": 5,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_6",
+    "numero": 6,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_7",
+    "numero": 7,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_8",
+    "numero": 8,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_9",
+    "numero": 9,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_10",
+    "numero": 10,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_11",
+    "numero": 11,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_12",
+    "numero": 12,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_13",
+    "numero": 13,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_14",
+    "numero": 14,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_15",
+    "numero": 15,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_16",
+    "numero": 16,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_17",
+    "numero": 17,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_18",
+    "numero": 18,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_19",
+    "numero": 19,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "EGY_20",
+    "numero": 20,
+    "pais": "Egito",
+    "sigla": "EGY",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_1",
+    "numero": 1,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_2",
+    "numero": 2,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_3",
+    "numero": 3,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_4",
+    "numero": 4,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_5",
+    "numero": 5,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_6",
+    "numero": 6,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_7",
+    "numero": 7,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_8",
+    "numero": 8,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_9",
+    "numero": 9,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_10",
+    "numero": 10,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_11",
+    "numero": 11,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_12",
+    "numero": 12,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_13",
+    "numero": 13,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_14",
+    "numero": 14,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_15",
+    "numero": 15,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_16",
+    "numero": 16,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_17",
+    "numero": 17,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_18",
+    "numero": 18,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_19",
+    "numero": 19,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRN_20",
+    "numero": 20,
+    "pais": "Irã",
+    "sigla": "IRN",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_1",
+    "numero": 1,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_2",
+    "numero": 2,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_3",
+    "numero": 3,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_4",
+    "numero": 4,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_5",
+    "numero": 5,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_6",
+    "numero": 6,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_7",
+    "numero": 7,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_8",
+    "numero": 8,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_9",
+    "numero": 9,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_10",
+    "numero": 10,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_11",
+    "numero": 11,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_12",
+    "numero": 12,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_13",
+    "numero": 13,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_14",
+    "numero": 14,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_15",
+    "numero": 15,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_16",
+    "numero": 16,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_17",
+    "numero": 17,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_18",
+    "numero": 18,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_19",
+    "numero": 19,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NZL_20",
+    "numero": 20,
+    "pais": "Nova Zelândia",
+    "sigla": "NZL",
+    "grupo": "G",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_1",
+    "numero": 1,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_2",
+    "numero": 2,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_3",
+    "numero": 3,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_4",
+    "numero": 4,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_5",
+    "numero": 5,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_6",
+    "numero": 6,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_7",
+    "numero": 7,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_8",
+    "numero": 8,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_9",
+    "numero": 9,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_10",
+    "numero": 10,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_11",
+    "numero": 11,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_12",
+    "numero": 12,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_13",
+    "numero": 13,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_14",
+    "numero": 14,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_15",
+    "numero": 15,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_16",
+    "numero": 16,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_17",
+    "numero": 17,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_18",
+    "numero": 18,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_19",
+    "numero": 19,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ESP_20",
+    "numero": 20,
+    "pais": "Espanha",
+    "sigla": "ESP",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_1",
+    "numero": 1,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_2",
+    "numero": 2,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_3",
+    "numero": 3,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_4",
+    "numero": 4,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_5",
+    "numero": 5,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_6",
+    "numero": 6,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_7",
+    "numero": 7,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_8",
+    "numero": 8,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_9",
+    "numero": 9,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_10",
+    "numero": 10,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_11",
+    "numero": 11,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_12",
+    "numero": 12,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_13",
+    "numero": 13,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_14",
+    "numero": 14,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_15",
+    "numero": 15,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_16",
+    "numero": 16,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_17",
+    "numero": 17,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_18",
+    "numero": 18,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_19",
+    "numero": 19,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CPV_20",
+    "numero": 20,
+    "pais": "Cabo Verde",
+    "sigla": "CPV",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_1",
+    "numero": 1,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_2",
+    "numero": 2,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_3",
+    "numero": 3,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_4",
+    "numero": 4,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_5",
+    "numero": 5,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_6",
+    "numero": 6,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_7",
+    "numero": 7,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_8",
+    "numero": 8,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_9",
+    "numero": 9,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_10",
+    "numero": 10,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_11",
+    "numero": 11,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_12",
+    "numero": 12,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_13",
+    "numero": 13,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_14",
+    "numero": 14,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_15",
+    "numero": 15,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_16",
+    "numero": 16,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_17",
+    "numero": 17,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_18",
+    "numero": 18,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_19",
+    "numero": 19,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "KSA_20",
+    "numero": 20,
+    "pais": "Arábia Saudita",
+    "sigla": "KSA",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_1",
+    "numero": 1,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_2",
+    "numero": 2,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_3",
+    "numero": 3,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_4",
+    "numero": 4,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_5",
+    "numero": 5,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_6",
+    "numero": 6,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_7",
+    "numero": 7,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_8",
+    "numero": 8,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_9",
+    "numero": 9,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_10",
+    "numero": 10,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_11",
+    "numero": 11,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_12",
+    "numero": 12,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_13",
+    "numero": 13,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_14",
+    "numero": 14,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_15",
+    "numero": 15,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_16",
+    "numero": 16,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_17",
+    "numero": 17,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_18",
+    "numero": 18,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_19",
+    "numero": 19,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "URU_20",
+    "numero": 20,
+    "pais": "Uruguai",
+    "sigla": "URU",
+    "grupo": "H",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_1",
+    "numero": 1,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_2",
+    "numero": 2,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_3",
+    "numero": 3,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_4",
+    "numero": 4,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_5",
+    "numero": 5,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_6",
+    "numero": 6,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_7",
+    "numero": 7,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_8",
+    "numero": 8,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_9",
+    "numero": 9,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_10",
+    "numero": 10,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_11",
+    "numero": 11,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_12",
+    "numero": 12,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_13",
+    "numero": 13,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_14",
+    "numero": 14,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_15",
+    "numero": 15,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_16",
+    "numero": 16,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_17",
+    "numero": 17,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_18",
+    "numero": 18,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_19",
+    "numero": 19,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FRA_20",
+    "numero": 20,
+    "pais": "França",
+    "sigla": "FRA",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_1",
+    "numero": 1,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_2",
+    "numero": 2,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_3",
+    "numero": 3,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_4",
+    "numero": 4,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_5",
+    "numero": 5,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_6",
+    "numero": 6,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_7",
+    "numero": 7,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_8",
+    "numero": 8,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_9",
+    "numero": 9,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_10",
+    "numero": 10,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_11",
+    "numero": 11,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_12",
+    "numero": 12,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_13",
+    "numero": 13,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_14",
+    "numero": 14,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_15",
+    "numero": 15,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_16",
+    "numero": 16,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_17",
+    "numero": 17,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_18",
+    "numero": 18,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_19",
+    "numero": 19,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "SEN_20",
+    "numero": 20,
+    "pais": "Senegal",
+    "sigla": "SEN",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_1",
+    "numero": 1,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_2",
+    "numero": 2,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_3",
+    "numero": 3,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_4",
+    "numero": 4,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_5",
+    "numero": 5,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_6",
+    "numero": 6,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_7",
+    "numero": 7,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_8",
+    "numero": 8,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_9",
+    "numero": 9,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_10",
+    "numero": 10,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_11",
+    "numero": 11,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_12",
+    "numero": 12,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_13",
+    "numero": 13,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_14",
+    "numero": 14,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_15",
+    "numero": 15,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_16",
+    "numero": 16,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_17",
+    "numero": 17,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_18",
+    "numero": 18,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_19",
+    "numero": 19,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "IRQ_20",
+    "numero": 20,
+    "pais": "Iraque",
+    "sigla": "IRQ",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_1",
+    "numero": 1,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_2",
+    "numero": 2,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_3",
+    "numero": 3,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_4",
+    "numero": 4,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_5",
+    "numero": 5,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_6",
+    "numero": 6,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_7",
+    "numero": 7,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_8",
+    "numero": 8,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_9",
+    "numero": 9,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_10",
+    "numero": 10,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_11",
+    "numero": 11,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_12",
+    "numero": 12,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_13",
+    "numero": 13,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_14",
+    "numero": 14,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_15",
+    "numero": 15,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_16",
+    "numero": 16,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_17",
+    "numero": 17,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_18",
+    "numero": 18,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_19",
+    "numero": 19,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "NOR_20",
+    "numero": 20,
+    "pais": "Noruega",
+    "sigla": "NOR",
+    "grupo": "I",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_1",
+    "numero": 1,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_2",
+    "numero": 2,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_3",
+    "numero": 3,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_4",
+    "numero": 4,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_5",
+    "numero": 5,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_6",
+    "numero": 6,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_7",
+    "numero": 7,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_8",
+    "numero": 8,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_9",
+    "numero": 9,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_10",
+    "numero": 10,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_11",
+    "numero": 11,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_12",
+    "numero": 12,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_13",
+    "numero": 13,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_14",
+    "numero": 14,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_15",
+    "numero": 15,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_16",
+    "numero": 16,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_17",
+    "numero": 17,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_18",
+    "numero": 18,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_19",
+    "numero": 19,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ARG_20",
+    "numero": 20,
+    "pais": "Argentina",
+    "sigla": "ARG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_1",
+    "numero": 1,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_2",
+    "numero": 2,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_3",
+    "numero": 3,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_4",
+    "numero": 4,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_5",
+    "numero": 5,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_6",
+    "numero": 6,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_7",
+    "numero": 7,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_8",
+    "numero": 8,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_9",
+    "numero": 9,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_10",
+    "numero": 10,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_11",
+    "numero": 11,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_12",
+    "numero": 12,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_13",
+    "numero": 13,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_14",
+    "numero": 14,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_15",
+    "numero": 15,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_16",
+    "numero": 16,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_17",
+    "numero": 17,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_18",
+    "numero": 18,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_19",
+    "numero": 19,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ALG_20",
+    "numero": 20,
+    "pais": "Argélia",
+    "sigla": "ALG",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_1",
+    "numero": 1,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_2",
+    "numero": 2,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_3",
+    "numero": 3,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_4",
+    "numero": 4,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_5",
+    "numero": 5,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_6",
+    "numero": 6,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_7",
+    "numero": 7,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_8",
+    "numero": 8,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_9",
+    "numero": 9,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_10",
+    "numero": 10,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_11",
+    "numero": 11,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_12",
+    "numero": 12,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_13",
+    "numero": 13,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_14",
+    "numero": 14,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_15",
+    "numero": 15,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_16",
+    "numero": 16,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_17",
+    "numero": 17,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_18",
+    "numero": 18,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_19",
+    "numero": 19,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "AUT_20",
+    "numero": 20,
+    "pais": "Áustria",
+    "sigla": "AUT",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_1",
+    "numero": 1,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_2",
+    "numero": 2,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_3",
+    "numero": 3,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_4",
+    "numero": 4,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_5",
+    "numero": 5,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_6",
+    "numero": 6,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_7",
+    "numero": 7,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_8",
+    "numero": 8,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_9",
+    "numero": 9,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_10",
+    "numero": 10,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_11",
+    "numero": 11,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_12",
+    "numero": 12,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_13",
+    "numero": 13,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_14",
+    "numero": 14,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_15",
+    "numero": 15,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_16",
+    "numero": 16,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_17",
+    "numero": 17,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_18",
+    "numero": 18,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_19",
+    "numero": 19,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "JOR_20",
+    "numero": 20,
+    "pais": "Jordânia",
+    "sigla": "JOR",
+    "grupo": "J",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_1",
+    "numero": 1,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_2",
+    "numero": 2,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_3",
+    "numero": 3,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_4",
+    "numero": 4,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_5",
+    "numero": 5,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_6",
+    "numero": 6,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_7",
+    "numero": 7,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_8",
+    "numero": 8,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_9",
+    "numero": 9,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_10",
+    "numero": 10,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_11",
+    "numero": 11,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_12",
+    "numero": 12,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_13",
+    "numero": 13,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_14",
+    "numero": 14,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_15",
+    "numero": 15,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_16",
+    "numero": 16,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_17",
+    "numero": 17,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_18",
+    "numero": 18,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_19",
+    "numero": 19,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "POR_20",
+    "numero": 20,
+    "pais": "Portugal",
+    "sigla": "POR",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_1",
+    "numero": 1,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_2",
+    "numero": 2,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_3",
+    "numero": 3,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_4",
+    "numero": 4,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_5",
+    "numero": 5,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_6",
+    "numero": 6,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_7",
+    "numero": 7,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_8",
+    "numero": 8,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_9",
+    "numero": 9,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_10",
+    "numero": 10,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_11",
+    "numero": 11,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_12",
+    "numero": 12,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_13",
+    "numero": 13,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_14",
+    "numero": 14,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_15",
+    "numero": 15,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_16",
+    "numero": 16,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_17",
+    "numero": 17,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_18",
+    "numero": 18,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_19",
+    "numero": 19,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COD_20",
+    "numero": 20,
+    "pais": "Congo",
+    "sigla": "COD",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_1",
+    "numero": 1,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_2",
+    "numero": 2,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_3",
+    "numero": 3,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_4",
+    "numero": 4,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_5",
+    "numero": 5,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_6",
+    "numero": 6,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_7",
+    "numero": 7,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_8",
+    "numero": 8,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_9",
+    "numero": 9,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_10",
+    "numero": 10,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_11",
+    "numero": 11,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_12",
+    "numero": 12,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_13",
+    "numero": 13,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_14",
+    "numero": 14,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_15",
+    "numero": 15,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_16",
+    "numero": 16,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_17",
+    "numero": 17,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_18",
+    "numero": 18,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_19",
+    "numero": 19,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "UZB_20",
+    "numero": 20,
+    "pais": "Uzbequistão",
+    "sigla": "UZB",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_1",
+    "numero": 1,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_2",
+    "numero": 2,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_3",
+    "numero": 3,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_4",
+    "numero": 4,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_5",
+    "numero": 5,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_6",
+    "numero": 6,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_7",
+    "numero": 7,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_8",
+    "numero": 8,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_9",
+    "numero": 9,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_10",
+    "numero": 10,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_11",
+    "numero": 11,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_12",
+    "numero": 12,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_13",
+    "numero": 13,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_14",
+    "numero": 14,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_15",
+    "numero": 15,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_16",
+    "numero": 16,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_17",
+    "numero": 17,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_18",
+    "numero": 18,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_19",
+    "numero": 19,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "COL_20",
+    "numero": 20,
+    "pais": "Colômbia",
+    "sigla": "COL",
+    "grupo": "K",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_1",
+    "numero": 1,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_2",
+    "numero": 2,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_3",
+    "numero": 3,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_4",
+    "numero": 4,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_5",
+    "numero": 5,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_6",
+    "numero": 6,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_7",
+    "numero": 7,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_8",
+    "numero": 8,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_9",
+    "numero": 9,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_10",
+    "numero": 10,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_11",
+    "numero": 11,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_12",
+    "numero": 12,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_13",
+    "numero": 13,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_14",
+    "numero": 14,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_15",
+    "numero": 15,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_16",
+    "numero": 16,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_17",
+    "numero": 17,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_18",
+    "numero": 18,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_19",
+    "numero": 19,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "ENG_20",
+    "numero": 20,
+    "pais": "Inglaterra",
+    "sigla": "ENG",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_1",
+    "numero": 1,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_2",
+    "numero": 2,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_3",
+    "numero": 3,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_4",
+    "numero": 4,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_5",
+    "numero": 5,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_6",
+    "numero": 6,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_7",
+    "numero": 7,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_8",
+    "numero": 8,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_9",
+    "numero": 9,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_10",
+    "numero": 10,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_11",
+    "numero": 11,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_12",
+    "numero": 12,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_13",
+    "numero": 13,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_14",
+    "numero": 14,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_15",
+    "numero": 15,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_16",
+    "numero": 16,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_17",
+    "numero": 17,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_18",
+    "numero": 18,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_19",
+    "numero": 19,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "CRO_20",
+    "numero": 20,
+    "pais": "Croácia",
+    "sigla": "CRO",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_1",
+    "numero": 1,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_2",
+    "numero": 2,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_3",
+    "numero": 3,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_4",
+    "numero": 4,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_5",
+    "numero": 5,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_6",
+    "numero": 6,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_7",
+    "numero": 7,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_8",
+    "numero": 8,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_9",
+    "numero": 9,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_10",
+    "numero": 10,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_11",
+    "numero": 11,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_12",
+    "numero": 12,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_13",
+    "numero": 13,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_14",
+    "numero": 14,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_15",
+    "numero": 15,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_16",
+    "numero": 16,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_17",
+    "numero": 17,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_18",
+    "numero": 18,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_19",
+    "numero": 19,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "GHA_20",
+    "numero": 20,
+    "pais": "Gana",
+    "sigla": "GHA",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_1",
+    "numero": 1,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_2",
+    "numero": 2,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_3",
+    "numero": 3,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_4",
+    "numero": 4,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_5",
+    "numero": 5,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_6",
+    "numero": 6,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_7",
+    "numero": 7,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_8",
+    "numero": 8,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_9",
+    "numero": 9,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_10",
+    "numero": 10,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_11",
+    "numero": 11,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_12",
+    "numero": 12,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_13",
+    "numero": 13,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_14",
+    "numero": 14,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_15",
+    "numero": 15,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_16",
+    "numero": 16,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_17",
+    "numero": 17,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_18",
+    "numero": 18,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_19",
+    "numero": 19,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "PAN_20",
+    "numero": 20,
+    "pais": "Panamá",
+    "sigla": "PAN",
+    "grupo": "L",
+    "jogador": null,
+    "tipo": "selecao",
+    "raridade": "comum"
+  },
+  {
+    "codigo": "FWC_00",
+    "numero": 0,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_01",
+    "numero": 1,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_02",
+    "numero": 2,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_03",
+    "numero": 3,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_04",
+    "numero": 4,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_05",
+    "numero": 5,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_06",
+    "numero": 6,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_07",
+    "numero": 7,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_08",
+    "numero": 8,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_09",
+    "numero": 9,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_10",
+    "numero": 10,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_11",
+    "numero": 11,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_12",
+    "numero": 12,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_13",
+    "numero": 13,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_14",
+    "numero": 14,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_15",
+    "numero": 15,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_16",
+    "numero": 16,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_17",
+    "numero": 17,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_18",
+    "numero": 18,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "FWC_19",
+    "numero": 19,
+    "pais": null,
+    "sigla": "FWC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "historia_copa",
+    "raridade": "especial"
+  },
+  {
+    "codigo": "CC_1",
+    "numero": 1,
+    "pais": null,
+    "sigla": "CC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "coca_cola",
+    "raridade": "promocional"
+  },
+  {
+    "codigo": "CC_2",
+    "numero": 2,
+    "pais": null,
+    "sigla": "CC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "coca_cola",
+    "raridade": "promocional"
+  },
+  {
+    "codigo": "CC_3",
+    "numero": 3,
+    "pais": null,
+    "sigla": "CC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "coca_cola",
+    "raridade": "promocional"
+  },
+  {
+    "codigo": "CC_4",
+    "numero": 4,
+    "pais": null,
+    "sigla": "CC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "coca_cola",
+    "raridade": "promocional"
+  },
+  {
+    "codigo": "CC_5",
+    "numero": 5,
+    "pais": null,
+    "sigla": "CC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "coca_cola",
+    "raridade": "promocional"
+  },
+  {
+    "codigo": "CC_6",
+    "numero": 6,
+    "pais": null,
+    "sigla": "CC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "coca_cola",
+    "raridade": "promocional"
+  },
+  {
+    "codigo": "CC_7",
+    "numero": 7,
+    "pais": null,
+    "sigla": "CC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "coca_cola",
+    "raridade": "promocional"
+  },
+  {
+    "codigo": "CC_8",
+    "numero": 8,
+    "pais": null,
+    "sigla": "CC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "coca_cola",
+    "raridade": "promocional"
+  },
+  {
+    "codigo": "CC_9",
+    "numero": 9,
+    "pais": null,
+    "sigla": "CC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "coca_cola",
+    "raridade": "promocional"
+  },
+  {
+    "codigo": "CC_10",
+    "numero": 10,
+    "pais": null,
+    "sigla": "CC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "coca_cola",
+    "raridade": "promocional"
+  },
+  {
+    "codigo": "CC_11",
+    "numero": 11,
+    "pais": null,
+    "sigla": "CC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "coca_cola",
+    "raridade": "promocional"
+  },
+  {
+    "codigo": "CC_12",
+    "numero": 12,
+    "pais": null,
+    "sigla": "CC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "coca_cola",
+    "raridade": "promocional"
+  },
+  {
+    "codigo": "CC_13",
+    "numero": 13,
+    "pais": null,
+    "sigla": "CC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "coca_cola",
+    "raridade": "promocional"
+  },
+  {
+    "codigo": "CC_14",
+    "numero": 14,
+    "pais": null,
+    "sigla": "CC",
+    "grupo": null,
+    "jogador": null,
+    "tipo": "coca_cola",
+    "raridade": "promocional"
+  }
+]

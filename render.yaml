@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: fifa-26-sticker-bot
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run build && npx prisma db push --skip-generate && npx tsx prisma/seed.ts
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: BOT_MODE
+        value: webhook
+      - key: NODE_ENV
+        value: production
