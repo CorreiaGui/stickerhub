@@ -21,6 +21,13 @@ export const stickerRepository = {
     });
   },
 
+  async findAll() {
+    return prisma.sticker.findMany({
+      select: { code: true },
+      orderBy: { code: "asc" },
+    });
+  },
+
   async countAll() {
     return prisma.sticker.count();
   },

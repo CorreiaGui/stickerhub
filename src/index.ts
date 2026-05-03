@@ -5,9 +5,22 @@ import { createBot } from "./bot";
 import { apiRouter } from "./api/routes";
 import { webhookCallback } from "grammy";
 
+async function connectWithRetry(retries = 5, delay = 3000) {
+  for (let i = 1; i <= retries; i++) {
+    try {
+      await prisma.$connect();
+      console.log("Database connected.");
+      return;
+    } catch (err) {
+      console.log(`Database connection attempt ${i}/${retries} failed. Retrying in ${delay / 1000}s...`);
+      if (i === retries) throw err;
+      await new Promise((r) => setTimeout(r, delay));
+    }
+  }
+}
+
 async function main() {
-  await prisma.$connect();
-  console.log("Database connected.");
+  await connectWithRetry();
 
   const bot = createBot(env.BOT_TOKEN);
   const app = express();

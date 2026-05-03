@@ -9,6 +9,7 @@ import { progressCommand } from "./commands/progress";
 import { countryCommand } from "./commands/country";
 import { groupCommand } from "./commands/group";
 import { contactCommand } from "./commands/contact";
+import { photoHandler } from "./commands/photo";
 
 export function createBot(token: string): Bot {
   const bot = new Bot(token);
@@ -23,6 +24,8 @@ export function createBot(token: string): Bot {
   bot.command(["pais", "country"], countryCommand);
   bot.command(["grupo", "group"], groupCommand);
   bot.command("contato", contactCommand);
+
+  bot.on("message:photo", photoHandler);
 
   bot.on("message:text", async (ctx) => {
     await ctx.reply("Comando não reconhecido. Use /help para ver os comandos disponíveis.");
