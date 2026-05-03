@@ -8,7 +8,7 @@ export async function addCommand(ctx: CommandContext<Context>) {
 
   const input = ctx.match;
   if (!input) {
-    await ctx.reply("Use: /add BRA_01, BRA_02, ARG_05");
+    await ctx.reply("Use: /add BRA1, BRA2, ARG5");
     return;
   }
 

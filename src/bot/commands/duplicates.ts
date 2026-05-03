@@ -8,7 +8,7 @@ export async function duplicatesCommand(ctx: CommandContext<Context>) {
 
   try {
     const duplicates = await albumService.getDuplicates(BigInt(from.id));
-    await ctx.reply(formatDuplicates(duplicates), { parse_mode: "Markdown" });
+    await ctx.reply(formatDuplicates(duplicates));
   } catch (err: any) {
     await ctx.reply(`❌ ${err.message}`);
   }

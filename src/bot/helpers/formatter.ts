@@ -68,21 +68,12 @@ export function formatDuplicates(
     byCountry.get(key)!.push(d);
   }
 
-  const lines: string[] = [`📋 Figurinhas repetidas (${totalDuplicates} no total):\n`];
+  const lines: string[] = [`📋 Repetidas para compartilhar (${totalDuplicates} no total):\n`];
 
   for (const [country, items] of byCountry) {
-    lines.push(`\n${country}:`);
-    for (const item of items) {
-      lines.push(`  • ${item.code} — ${item.duplicates} repetida(s)`);
-    }
+    const codes = items.map((i) => i.duplicates > 1 ? `${i.code} (${i.duplicates}x)` : i.code);
+    lines.push(`${country}: ${codes.join(", ")}`);
   }
-
-  lines.push("\n\n📝 Lista para compartilhar:");
-  lines.push("```");
-  for (const d of duplicates) {
-    lines.push(`${d.code} (${d.duplicates}x)`);
-  }
-  lines.push("```");
 
   return lines.join("\n");
 }
@@ -105,22 +96,23 @@ export function formatMissing(total: number, byCountry: Map<string, string[]>, f
 }
 
 function progressBar(percentage: number): string {
-  const filled = Math.round(percentage / 5);
-  const empty = 20 - filled;
-  return "█".repeat(filled) + "░".repeat(empty);
+  const size = 10;
+  const filled = Math.round((percentage / 100) * size);
+  const empty = size - filled;
+  return "▓".repeat(filled) + "░".repeat(empty);
 }
 
 export function formatProgress(overall: AlbumProgress, byGroup: GroupProgress[]): string {
   const lines: string[] = [
     "📊 Progresso do Álbum:\n",
-    `${progressBar(overall.percentage)} ${overall.owned}/${overall.total} (${overall.percentage}%)`,
-    "\nPor grupo:",
+    `${progressBar(overall.percentage)} ${overall.percentage}%`,
+    `${overall.owned} de ${overall.total} figurinhas\n`,
+    "Por grupo:",
   ];
 
   for (const g of byGroup) {
-    const bar = progressBar(g.percentage);
-    const label = g.group === "Especiais" ? "Especiais" : `Grupo ${g.group}`;
-    lines.push(`  ${label}: ${bar} ${g.owned}/${g.total} (${g.percentage}%)`);
+    const label = g.group === "Especiais" ? "ESP" : g.group;
+    lines.push(`  ${label} ${progressBar(g.percentage)} ${g.owned}/${g.total}`);
   }
 
   return lines.join("\n");

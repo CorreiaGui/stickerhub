@@ -8,7 +8,7 @@ export async function removeCommand(ctx: CommandContext<Context>) {
 
   const input = ctx.match;
   if (!input) {
-    await ctx.reply("Use: /remove BRA_01, BRA_02");
+    await ctx.reply("Use: /remove BRA1, BRA2");
     return;
   }
 
