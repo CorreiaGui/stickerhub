@@ -29,8 +29,13 @@ export interface GroupProgress {
 }
 
 export function parseStickerCodes(input: string): string[] {
+  const seen = new Set<string>();
   return input
     .split(/[\s,]+/)
     .map((code) => code.trim().toUpperCase())
-    .filter((code) => code.length > 0);
+    .filter((code) => {
+      if (code.length === 0 || seen.has(code)) return false;
+      seen.add(code);
+      return true;
+    });
 }
