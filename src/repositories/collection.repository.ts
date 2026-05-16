@@ -50,7 +50,7 @@ export const collectionRepository = {
     return prisma.userSticker.findMany({
       where: { userId, quantity: { gt: 1 } },
       include: { sticker: true },
-      orderBy: { sticker: { code: "asc" } },
+      orderBy: [{ sticker: { group: "asc" } }, { sticker: { id: "asc" } }],
     });
   },
 
@@ -64,7 +64,7 @@ export const collectionRepository = {
         ...where,
         users: { none: { userId } },
       },
-      orderBy: [{ countryCode: "asc" }, { number: "asc" }],
+      orderBy: [{ group: "asc" }, { id: "asc" }],
     });
   },
 

@@ -1,7 +1,17 @@
 import { userRepository } from "../repositories/user.repository";
 import { stickerRepository } from "../repositories/sticker.repository";
 import { collectionRepository } from "../repositories/collection.repository";
-import { parseStickerCodes, AlbumProgress, GroupProgress } from "../domain/sticker";
+import {
+  parseStickerCodes,
+  AlbumProgress,
+  GroupProgress,
+  CountryStickerList,
+  CountryDuplicateList,
+} from "../domain/sticker";
+
+function stickerLabel(code: string, countryCode: string): string {
+  return code.startsWith(countryCode) ? code.slice(countryCode.length) : code;
+}
 
 export const albumService = {
   async registerUser(telegramId: bigint, firstName: string, username?: string) {
@@ -66,34 +76,53 @@ export const albumService = {
     return { removed, invalid };
   },
 
-  async getDuplicates(telegramId: bigint) {
+  async getDuplicates(telegramId: bigint): Promise<CountryDuplicateList[]> {
     const user = await userRepository.findByTelegramId(telegramId);
     if (!user) throw new Error("Usuário não encontrado. Use /start primeiro.");
 
     const entries = await collectionRepository.getDuplicates(user.id);
-    return entries.map((e) => ({
-      code: e.sticker.code,
-      country: e.sticker.country,
-      countryCode: e.sticker.countryCode,
-      duplicates: e.quantity - 1,
-    }));
+    const result: CountryDuplicateList[] = [];
+    let current: CountryDuplicateList | null = null;
+    for (const e of entries) {
+      const { countryCode, country, group, code } = e.sticker;
+      if (!current || current.countryCode !== countryCode) {
+        current = { countryCode, country, group, items: [] };
+        result.push(current);
+      }
+      current.items.push({
+        label: stickerLabel(code, countryCode),
+        duplicates: e.quantity - 1,
+      });
+    }
+    return result;
   },
 
-  async getMissing(telegramId: bigint, filter?: string) {
+  async getMissing(
+    telegramId: bigint,
+    filter?: string,
+  ): Promise<{ total: number; countries: CountryStickerList[] }> {
     const user = await userRepository.findByTelegramId(telegramId);
     if (!user) throw new Error("Usuário não encontrado. Use /start primeiro.");
 
     const filters = parseFilter(filter);
     const missing = await collectionRepository.getMissing(user.id, filters);
 
-    const grouped = new Map<string, string[]>();
+    const countries: CountryStickerList[] = [];
+    let current: CountryStickerList | null = null;
     for (const s of missing) {
-      const key = s.country ?? s.countryCode;
-      if (!grouped.has(key)) grouped.set(key, []);
-      grouped.get(key)!.push(s.code);
+      if (!current || current.countryCode !== s.countryCode) {
+        current = {
+          countryCode: s.countryCode,
+          country: s.country,
+          group: s.group,
+          labels: [],
+        };
+        countries.push(current);
+      }
+      current.labels.push(stickerLabel(s.code, s.countryCode));
     }
 
-    return { total: missing.length, byCountry: grouped };
+    return { total: missing.length, countries };
   },
 
   async getProgress(telegramId: bigint): Promise<{ overall: AlbumProgress; byGroup: GroupProgress[] }> {

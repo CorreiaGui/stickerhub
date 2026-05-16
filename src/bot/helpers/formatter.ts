@@ -1,4 +1,10 @@
-import { AlbumProgress, GroupProgress } from "../../domain/sticker";
+import {
+  AlbumProgress,
+  GroupProgress,
+  CountryStickerList,
+  CountryDuplicateList,
+} from "../../domain/sticker";
+import { countryFlag } from "./flag";
 
 export function formatAddResult(
   added: { code: string; country: string | null; newQuantity: number }[],
@@ -54,42 +60,46 @@ export function formatRemoveResult(
   return lines.join("\n");
 }
 
-export function formatDuplicates(
-  duplicates: { code: string; country: string | null; countryCode: string; duplicates: number }[]
-): string {
-  if (duplicates.length === 0) return "Você não tem figurinhas repetidas.";
+function countryHeader(countryCode: string): string {
+  const flag = countryFlag(countryCode);
+  return flag ? `${countryCode} ${flag}` : countryCode;
+}
 
-  const totalDuplicates = duplicates.reduce((sum, d) => sum + d.duplicates, 0);
+export function formatDuplicates(groups: CountryDuplicateList[]): string {
+  if (groups.length === 0) return "Você não tem figurinhas repetidas.";
 
-  const byCountry = new Map<string, typeof duplicates>();
-  for (const d of duplicates) {
-    const key = d.country ?? d.countryCode;
-    if (!byCountry.has(key)) byCountry.set(key, []);
-    byCountry.get(key)!.push(d);
-  }
+  const totalDuplicates = groups.reduce(
+    (sum, g) => sum + g.items.reduce((s, i) => s + i.duplicates, 0),
+    0,
+  );
 
   const lines: string[] = [`📋 Repetidas para compartilhar (${totalDuplicates} no total):\n`];
 
-  for (const [country, items] of byCountry) {
-    const codes = items.map((i) => i.duplicates > 1 ? `${i.code} (${i.duplicates}x)` : i.code);
-    lines.push(`${country}: ${codes.join(", ")}`);
+  for (const g of groups) {
+    const labels = g.items
+      .map((i) => (i.duplicates > 1 ? `${i.label} (${i.duplicates}x)` : i.label))
+      .join(", ");
+    lines.push(`${countryHeader(g.countryCode)}: ${labels}`);
   }
 
   return lines.join("\n");
 }
 
-export function formatMissing(total: number, byCountry: Map<string, string[]>, filter?: string): string {
+export function formatMissing(
+  total: number,
+  countries: CountryStickerList[],
+  filter?: string,
+): string {
   if (total === 0) {
     return filter
-      ? `✅ Você já tem todas as figurinhas${filter ? ` de ${filter}` : ""}!`
+      ? `✅ Você já tem todas as figurinhas de ${filter}!`
       : "🏆 Parabéns! Seu álbum está completo!";
   }
 
   const lines: string[] = [`📋 Figurinhas faltantes (${total}):\n`];
 
-  for (const [country, codes] of byCountry) {
-    lines.push(`\n${country} (${codes.length}):`);
-    lines.push(`  ${codes.join(", ")}`);
+  for (const c of countries) {
+    lines.push(`${countryHeader(c.countryCode)}: ${c.labels.join(", ")}`);
   }
 
   return lines.join("\n");
