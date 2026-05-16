@@ -22,7 +22,7 @@ apiRouter.get("/stickers/missing/:telegramId", async (req, res) => {
     const telegramId = BigInt(req.params.telegramId);
     const filter = req.query.filter as string | undefined;
     const missing = await albumService.getMissing(telegramId, filter);
-    res.json({ total: missing.total, byCountry: Object.fromEntries(missing.byCountry) });
+    res.json(missing);
   } catch (err: any) {
     res.status(400).json({ error: err.message });
   }

@@ -8,8 +8,8 @@ export async function missingCommand(ctx: CommandContext<Context>) {
 
   try {
     const filter = ctx.match || undefined;
-    const { total, byCountry } = await albumService.getMissing(BigInt(from.id), filter);
-    const msg = formatMissing(total, byCountry, filter);
+    const { total, countries } = await albumService.getMissing(BigInt(from.id), filter);
+    const msg = formatMissing(total, countries, filter);
 
     if (msg.length > 4096) {
       const chunks = splitMessage(msg, 4096);

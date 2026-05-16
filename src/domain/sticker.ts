@@ -28,6 +28,20 @@ export interface GroupProgress {
   percentage: number;
 }
 
+export interface CountryStickerList {
+  countryCode: string;
+  country: string | null;
+  group: string | null;
+  labels: string[];
+}
+
+export interface CountryDuplicateList {
+  countryCode: string;
+  country: string | null;
+  group: string | null;
+  items: { label: string; duplicates: number }[];
+}
+
 export function parseStickerCodes(input: string): string[] {
   const seen = new Set<string>();
   return input
